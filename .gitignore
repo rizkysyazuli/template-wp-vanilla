@@ -1,0 +1,9 @@
+/node_modules/*
+/bower_components/*
+/.sass-cache/*
+/build/*
+/style.css
+/style.css.map
+/js/main.js
+/js/main.min.js
+/js/**/*.map

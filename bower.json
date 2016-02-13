@@ -1,0 +1,19 @@
+{
+  "name": "WP Lion",
+  "description": "Lion & Lion Custom WP Theme",
+  "main": "",
+  "authors": [
+    "Lion & Lion"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
